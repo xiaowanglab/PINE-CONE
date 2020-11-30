@@ -1,0 +1,4 @@
+"Name","Chromosome","Position (Bp)","Edit (A,T,C,G)","RT (Bp)","PBS (Bp)","Notes:"
+"HEK3-A",9,107422356,"A",13,13,"Example SNP-pegRNA"
+"HEK3-Del",9,107422356,"D5",14,13,"Example Del-pegRNA"
+"HEK3-Ins",9,107422356,"iATGGAC",22,13,"Example Ins-pegRNA"
