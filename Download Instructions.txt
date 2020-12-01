@@ -1,0 +1,9 @@
+To download PINE-CONE from Github: Click the green "Code" Button and "Download Zip". This will download the PINE-CONE repository including stand alone programs.
+
+Contents include: Windows executable and source code, Mac executable and source code. The "callable scripts" contains python source code and an example python script to run PINE-CONE without the User inteface. The example files folder includes experimental and example .csv files for the user to test. The user can trim unwanted folders from their downloaded version.
+
+For Windows:
+To run PINE-CONE for windows, after download make sure "logos" folder with contents are located in the same folder as the executable.
+
+For Mac:
+Upon initial download, make sure the "logos" folder is located with PINECONE. Sometimes when unzipping the file Mac will not recognize PINECONE as an executable. To solve this, Open "terminal" and type "chmod +x " (include a space after +x) then drag the file into the terminal window. This should result in "chmod +x Path/pinecone". Click the "Enter" key. This will properly define the file as executable. PINE-CONE often takes 20 seconds on initial startup due to the large matplotlib library. 
